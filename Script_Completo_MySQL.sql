@@ -1,4 +1,4 @@
-drop table estudiantes;
+DROP TABLE IF EXISTS estudiantes;
 
 -- Creacion de tabla
 
